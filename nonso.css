@@ -1,0 +1,20 @@
+* {
+   padding-right: 10px;
+
+}
+span {
+   color: orange;
+}
+.navber {
+   display: flex;
+   justify-content: space-around;
+}
+
+.navber ul {
+   display: flex;
+   
+}
+
+.navber ul dl {
+   padding: 0 10px;
+}
